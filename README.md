@@ -2,6 +2,8 @@
 
 A tool to review mismatches between Wikidata and External Databases.
 
+# Use review
+
 ## User Guide
 
  * See the [User Guide](docs/UserGuide.md) for instructions on how to use Wikidata Mismatch Finder.
